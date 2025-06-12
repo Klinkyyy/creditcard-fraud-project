@@ -46,6 +46,11 @@ In dit project wordt een machine learning-model getraind om frauduleuze transact
 
 > 🏆 XGBoost presteerde iets beter en is gekozen als eindmodel
 
+
+with this code i upload the files to the github dictonary :
+git remote add origin https://github.com/Klinkyyy/creditcard-fraud-project.git
+git branch -M main
+git push -u origin main
 ---
 
 ## 🚀 Live demo (optioneel)
